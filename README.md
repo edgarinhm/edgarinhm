@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🌱 About Me
 
-I'm from Colombia, born and rised in the city of Cali. Despite the challenges, I managed to obtain a MS Degree in Systems Engineering, specializing in Software Development. I love outdoor activities, with a particular passion for hiking.
+I'm from Colombia, born and raised in the city of Cali. Despite the challenges, I obtained a BS in Systems Engineering, specializing in Software Development. I love outdoor activities, with a particular passion for hiking.
 
 ---
 
