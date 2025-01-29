@@ -33,6 +33,7 @@ I'm from Colombia, born and raised in the city of Cali. Despite the challenges, 
 
 ## 🛠️ Challenge Projects
 
+- **Movies Layout**: Movie layout, this template gives an aproach to production application ready with testing and folder structure. Built with ReactJS, HTML, CSS, and Javascript. [Check it out!]( https://edgarinhm.github.io/nix-react-movies-challenge/)
 - **Template Layout**: Custom layout, this template gives out-of-the-box components for a header sidebar, table, and modal components built with ReactJS, HTML, CSS, and Javascript. [Check it out!](https://edgarinhm.github.io/react-layout-ols-challenge/)
 - **Booking Hotels Reservation**: Reservation Platform for book hotels. Built from scratch using React, Headless UI, TailwindCSS, TypeScript, and GitHub Actions. [Check it out!](https://edgarinhm.github.io/smtalent-react-challenge-bookings)
 - **Project Management**: Project Management  Dashboard, projects, users, and roles modules for operations or development processes. Build Responsive UIs using React Js, SCSS, TypeScript, and GitHub Actions. [Check it out!](https://edgarinhm.github.io/ols-react-challenge)
